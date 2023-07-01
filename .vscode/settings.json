@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "random": "cpp",
+        "ostream": "cpp",
+        "map": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.clang_format_sortIncludes": null,
+    "C_Cpp.intelliSenseEngineFallback": "enabled"
+}
